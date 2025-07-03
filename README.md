@@ -1,2 +1,2 @@
 # bft-mse
-for ICCAT MSE website
+ICCAT Atlantic Bluefin Tuna MSE text page
